@@ -1,0 +1,9 @@
+Abrir cmd admin:
+	- Escribir cmd en la search bar
+	- Presionar Shift+Alt+Enter
+Activar entorno:
+	conda activate mlep-w1-lab
+Lanzar Jupyter Notebook:
+	jupyter lab
+	
+	
